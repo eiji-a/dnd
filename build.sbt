@@ -1,4 +1,4 @@
-name := "D&D 4ed"
+name := "D&D rules cyclopedia"
 
 version := "0.1"
 
